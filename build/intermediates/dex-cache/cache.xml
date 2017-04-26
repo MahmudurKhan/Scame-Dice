@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/Desktop/ScameDice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cba04ad888d1722fbfd1a1971447bd9cecb49d2f">
+        <dex dex="/Users/JokerKing/Desktop/ScameDice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b99f03651adfa7f53d6f075395614faa085441cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JokerKing/Desktop/ScameDice/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/JokerKing/Desktop/ScameDice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ac795566e325533151b69d7bf24c375bd60eb23a/classes.dex" />
+    </item>
+
+</items>

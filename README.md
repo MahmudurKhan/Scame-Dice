@@ -1,1 +1,5 @@
-# Scame-Dice
+# ScameDice
+# ScameDice
+# ScameDiceGoogleCS
+# ScameDiceGoogleCS
+# ScameDiceGoogleCS

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ScameDice</string>
+    <string name="text_score">Your Score: 0 Computer Score: 0</string>
+    <string name="button_roll">ROLL</string>
+    <string name="button_hold">HOLD</string>
+    <string name="button_reset">RESET</string>
+</resources>
